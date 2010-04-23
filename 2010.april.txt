@@ -3,32 +3,31 @@
 1. Officers
   1. President - Jon
   2. Vice President - 
-    1. Sasha ++++     +++
-    3. Ryan ++
-    4. Dean ++++      ++
-    5. Mike +++
+    1. Sasha   ++++     +++
+    3. Ryan    ++
+    4. Dean    ++++     ++
+    5. Mike    +++
   3. Treasurer - 
-    2. Brett ++++
-    2. Alex  +++.
-    2. Ryan  +++++
+    2. Brett   ++++
+    2. Alex    +++.
+    2. Ryan    +++++
   4. Secretary - Newsletter (sending, and blog links), Meeting Minutes, Eval Shtuff
-    2. Dean  +++++   +++
-    5. Brett +++++   +
-    2. Alex  ++
-      +
+    2. Dean    +++++    +++
+    5. Brett   +++++    +
+    2. Alex    ++
+               +
   5. PR/Sponsorship/Marketing - 
-    2. Shane +++++
+    2. Shane   +++++
   6. WEBMASSTER - 
     2. Alex
-  7. unnamed officers - 
-
-President - Jon
-Vice President - Sasha
-Treasurer - Ryan
-Secretary - Dean
-PR/Sponsorship - Shane
-Webmasster - Alex
-Ninja - Brett, Mike
+  7. Results
+      President - Jon
+      Vice President - Sasha
+      Treasurer - Ryan
+      Secretary - Dean
+      PR/Sponsorship - Shane
+      Webmasster - Alex
+      Ninja - Brett, Mike
 
 2. Locations
   1. Woot! Meridian Mark II
@@ -115,11 +114,13 @@ Ninja - Brett, Mike
 
 9. Missing anything?
 
-jaxidian@gmail.com
-arktronic@gmail.com
-rmillikin@gmail.com
-bjries2@gmail.com
-dvsdean@gmail.com
-alxconntk@gmail.com
-fullerjc@gmail.com
-<get mikes>
+10. Random Stuff
+  1. Google calendar with the stuff that needs done:
+    1. It's called  "Indy Alt.Net Tasks", xml feed is here: 
+      http://www.google.com/calendar/feeds/f9bp25fmqit834teo3joarlj38%40group.calendar.google.com/public/basic
+    2. I sent you all an invite except for Mike... Mike, what is your gmail address?
+  2. Other stuff on github.com/indyaltnet
+    1. If you want to be a contributor to any of those repositories, just let me know, I'll add you in.
+    2. This document is in the meeting-notes repository.
+  3. Google Documents
+    1. I shared a folder of google documents with you guys in case anyone needs any of the document type stuff we have that isn't in the github repo.
