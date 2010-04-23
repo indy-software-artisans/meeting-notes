@@ -1,0 +1,125 @@
+# April Admin Meeting #
+
+1. Officers
+  1. President - Jon
+  2. Vice President - 
+    1. Sasha ++++     +++
+    3. Ryan ++
+    4. Dean ++++      ++
+    5. Mike +++
+  3. Treasurer - 
+    2. Brett ++++
+    2. Alex  +++.
+    2. Ryan  +++++
+  4. Secretary - Newsletter (sending, and blog links), Meeting Minutes, Eval Shtuff
+    2. Dean  +++++   +++
+    5. Brett +++++   +
+    2. Alex  ++
+      +
+  5. PR/Sponsorship/Marketing - 
+    2. Shane +++++
+  6. WEBMASSTER - 
+    2. Alex
+  7. unnamed officers - 
+
+President - Jon
+Vice President - Sasha
+Treasurer - Ryan
+Secretary - Dean
+PR/Sponsorship - Shane
+Webmasster - Alex
+Ninja - Brett, Mike
+
+2. Locations
+  1. Woot! Meridian Mark II
+    1. Sasha to talk to Infragistics to see if they want to pay for the room.
+    2. $50/month
+  2. Brett possibly has a lead for a room at Franklin University.
+    1.  Allisonville/82nd
+
+3. May Meeting
+  1. Topic - RIA Smackdown (Silverlight, Flex, jQuery)
+    1. Mike Brown - Silverlight
+    2. Alex Conner - Flex
+    3. ?? - jQuery
+      1. Dave Matthew
+      1.1 Matt
+  2. Go over goals/spec
+  2. 20 minutes apiece for presenting
+  2. Focus on technical
+  2. Give a few things away between each presenter
+  2. It's Our Birthday!
+  3. Location - Meridian Mark II
+  4. Jon to send a copy of the RIA spec to Mike, Alex, ?? by the beginning of next week.
+  5. Raffleboard
+
+4. June Meeting
+  1. Project Based TDD Dojo/Tutorial
+    1. Several of us will create tutorials with the following components:
+      1. Mostly empty skeleton solution
+      2. Finished solution
+      3. Step by step guide
+      4. Project Documentation (requirements, goals, pre-reqs, etc.)
+    2. A couple of us to create TDD Primers (Java, .NET, etc.) explaining what tools to use and links to "Getting Started" blogs and tutorials.
+  2. Make sure we start with a quick intro or something to make sure everyone is on the same page.
+  2. Backup topic.
+    1. Jon - MongoDB
+    2. Brian - Practice, mentorship, etc.
+  3. Location - Meridian Mark II
+  2. By the end of next week, commitments from several people on doing their pieces. Henceforth known as The Dojo Committee.
+    1. Ryan - Sensei
+    2. !Shane
+    3. Dean
+    4. ~|!!!~!(!!!%Jon)|
+    5. Alex
+    6. !!!Sasha
+
+5. Future Topic Ideas
+  1. MongoDB (NoSQL)
+  2. HTML5
+  3. Design Patterns
+  4. AOP (weaving, etc.)
+  5. Deliberate Practice (Brian Ball)
+  6. Software Craftsmanship (Brian Ball)
+  7. Mentoring vs. Self-Taught (Brian Ball)
+  8. DSL's (Brian Ball)
+  9. Fluent Interfaces
+  10. Phil Japikse - Agile Project Management (Dean to ask)
+  11. Dave Grigsby - ? (Dean to ask)
+
+6. Evals
+  1. What did you think?
+    1. Keep doing them for now... we'll give it a shot.
+  2. Should we continue?
+
+7. Incorporation (again)
+  1. Mike really wants us to incorporate and will give us $$ to do so.
+     1. $$ costs:
+        1. $400 insurance/yr
+        2. $40/month for a person in a room
+        3. ?? $$ for taxes, accounting work, etc.
+        4. conclusion: over $1k/yr
+     2. Time investments of this may be very significant, especially when starting it up.
+     3. Benefits of doing this
+        1. Mike says he'll give us up to $500/month.
+        2. Other sponsors may get perks for sponsoring us.
+        3. Other random freebies.
+  2. Before we can do this, we need ideas for funding these $1k+/yr cost
+
+8. Recording the Meetings
+  1. We still want to do this...
+  2. Shane, do you have camtasia PC?
+    3. Jon to look at INETA stuff if/when Shane drops the ball.
+  3. Dean, do you have camtasia mac?
+  4. Alex will be glad to do editing for us.
+
+9. Missing anything?
+
+jaxidian@gmail.com
+arktronic@gmail.com
+rmillikin@gmail.com
+bjries2@gmail.com
+dvsdean@gmail.com
+alxconntk@gmail.com
+fullerjc@gmail.com
+<get mikes>
