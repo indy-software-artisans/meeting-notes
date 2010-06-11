@@ -1,0 +1,58 @@
+# May Admin Meeting #
+
+2. Locations
+  1. room was good except for the ventilation system
+  2. location is okay, meridian sucks
+  3. Infragistics wants to pay for the room. (one bill)
+  4. need better directions on the website (take Pennsylvania!!)
+  5. Brett to check on Franklin University location. (Ryan is able to check out the room if needed)
+
+3. June Meeting
+  1. Phil Japikse is likely willing to come help us out for this.  Dean will talk to him tomorrow (5/28) and get confirmation from him.  Ryan will send Dean the google doc link.
+
+2. July Meeting
+  1. 5 with a touch of 7 (uke is a must)... actually, we just want the uke, keep bringing it every month 
+3. August Meeting
+  1. Dennis Burton - MongoDB?
+
+4. September Meeting
+  1. Fishbowl?
+    2. Agile? (What is it good for?  Huh. Absolutely nothing!)
+    3. Change
+    4. <be thinking about it!>
+
+3. Growing Speakers
+  1. Lightning talks
+  2. Pair-Presenting
+  3. Opening Discussion
+  4. Mention this stuff in the pre-meeting slides
+
+5. Future Topic Ideas
+  1. MongoDB (NoSQL)
+  2. Tim Wingfield - Lean/Kanban
+  2. HTML5
+  2. Color Modeling
+  3. Design Patterns
+  4. AOP (weaving, etc.)
+  5. Deliberate Practice (Brian Ball)
+  6. Software Craftsmanship (Brian Ball)
+  7. Mentoring vs. Self-Taught (Brian Ball)
+  8. DSL's (Brian Ball)
+  9. Fluent Interfaces
+  10. Phil Japikse - Agile Project Management (Dean to ask)
+  11. Dave Grigsby - ? (Dean to ask)
+
+7. Incorporation (again)
+  1. Dean will ask his father-in-law about doing our taxes... if we want to incorporate.
+  2. The guys in the open spaces session say it's easy and we should do it.
+  3. Mike, Ryan will look into what this will really cost us.  We'll expect real numbers here for next meeting. And all the stuff we might need to do to make this happen.
+
+8. Recording the Meetings
+  1. We still want to do this...
+  2. Shane, do you have camtasia PC?
+    3. Jon to look at INETA stuff if/when Shane drops the ball.
+  3. Dean, do you have camtasia mac?
+  4. Alex will be glad to do editing for us.
+
+9. Programmer Puzzles
+  2. Ask, see if people want them or not.
