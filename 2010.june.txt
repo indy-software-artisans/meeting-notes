@@ -1,0 +1,59 @@
+# June Admin Meeting #
+
+Old Business
+----------------------
+
+1. Locations
+  1. Sasha, do we have an update from Infragistics?
+  2. Looks like Franklin is a go, as soon as we get money commitment from Infragistics.
+
+2. July Meeting
+  1. Brian is doing his Deliberate Practice talk.
+
+3. Incorporation (again)
+  1. Dean will ask his father-in-law about doing our taxes... if we want to incorporate.
+  2. The guys in the open spaces session say it's easy and we should do it.
+  3. Mike, Ryan will look into what this will really cost us.  We'll expect real numbers here for next meeting. And all the stuff we might need to do to make this happen.
+
+4. Recording the Meetings
+  1. We still want to do this...
+  2. Shane, do you have camtasia PC?
+  3. Dean, do you have camtasia mac (Jeff McWherter)?
+  4. Alex will be glad to do editing for us.
+
+5. Programmer Puzzles
+  1. Ask, see if people want them or not.
+  2. What do you think Dean?
+
+New Business
+----------------------
+
+1. August Meeting
+  1. Dennis Burton - MongoDB? (JCF: I suggest we nix this since he did this talk at IndyNDA)
+
+2. September Meeting
+  1. Fishbowl?
+    2. Agile? (What is it good for?  Huh. Absolutely nothing!)
+    3. Change
+    4. <be thinking about it!>
+
+3. Growing Speakers
+  1. Lightning talks
+  2. Pair-Presenting
+  3. Opening Discussion
+  4. Mention this stuff in the pre-meeting slides
+
+Future Topic Idea Bucket
+---------------------------------
+MongoDB (NoSQL)
+Tim Wingfield - Lean/Kanban
+HTML5
+Color Modeling
+Design Patterns
+AOP (weaving, etc.)
+Software Craftsmanship (Brian Ball)
+Mentoring vs. Self-Taught (Brian Ball)
+DSL's (Brian Ball)
+Fluent Interfaces
+Dave Grigsby - ? (Dean to ask)
+
