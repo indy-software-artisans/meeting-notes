@@ -16,7 +16,7 @@ Old Business
   3. Mike, Ryan will look into what this will really cost us.  We'll expect real numbers here for next meeting. And all the stuff we might need to do to make this happen.
 
 4. Recording the Meetings
-  1. We still want to do this...
+  1. We still want to do this... this month will be an excellent opportunity to do it.
   2. Shane, do you have camtasia PC?
   3. Dean, do you have camtasia mac (Jeff McWherter)?
   4. Alex will be glad to do editing for us.
@@ -37,7 +37,13 @@ New Business
     3. Change
     4. <be thinking about it!>
 
-3. Growing Speakers
+3. October Meeting
+
+4. November Meeting
+
+5. November Meeting
+
+6. Growing Speakers
   1. Lightning talks
   2. Pair-Presenting
   3. Opening Discussion
@@ -45,8 +51,8 @@ New Business
 
 Future Topic Idea Bucket
 ---------------------------------
-MongoDB (NoSQL)
-Tim Wingfield - Lean/Kanban
+MongoDB (NoSQL) - Jon Fuller (someone else?)
+Lean/Kanban - Tim Wingfield/Chris Shinkle
 HTML5
 Color Modeling
 Design Patterns
