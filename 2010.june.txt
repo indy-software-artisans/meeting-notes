@@ -4,7 +4,7 @@ Old Business
 ----------------------
 
 1. Locations
-  1. Sasha, do we have an update from Infragistics?
+  1. Sasha, do we have an update from Infragistics? No.  Sasha/Shane will send a confused email.
   2. Looks like Franklin is a go, as soon as we get money commitment from Infragistics.
 
 2. July Meeting
@@ -17,49 +17,66 @@ Old Business
 
 4. Recording the Meetings
   1. We still want to do this... this month will be an excellent opportunity to do it.
-  2. Shane, do you have camtasia PC?
+  2. Shane, do you have camtasia PC? Jon to dig around on ineta website to find a copy of camtasia.
   3. Dean, do you have camtasia mac (Jeff McWherter)?
   4. Alex will be glad to do editing for us.
 
 5. Programmer Puzzles
   1. Ask, see if people want them or not.
   2. What do you think Dean?
+    1. If these could be distributed before the meeting (like before people get there), that might prove more useful.
+    2. Get them to Jon a month ahead of time if you want them to happen.
 
 New Business
 ----------------------
 
 1. August Meeting
   1. Dennis Burton - MongoDB? (JCF: I suggest we nix this since he did this talk at IndyNDA)
+  2. Nix Dennis, use my talk, maybe add some couch goodness (Jon to talk to Brett and Matt and Shawn about Couch, maybe one of the Ruby guys)
 
 2. September Meeting
   1. Fishbowl?
-    2. Agile? (What is it good for?  Huh. Absolutely nothing!)
     3. Change
-    4. <be thinking about it!>
+    5. Roles Fishbowl (again)
+    6. Low-level/Hardware Platform concerns and Profiling (CPU/IO/Memory/Network) - Fishbowl+Pres
+    1. Be thinking about it!
 
 3. October Meeting
+???  Lean/Kanban - Tim Wingfield/Chris Shinkle
 
 4. November Meeting
+???  Lean/Kanban - Tim Wingfield/Chris Shinkle
+Fluent Interfaces - moq, nunit, ioc, + DSL
 
-5. November Meeting
+5. December Meeting
+Fluent Interfaces - moq, nunit, ioc, + DSL
 
 6. Growing Speakers
-  1. Lightning talks
+  1. Lightning talks - Ryan will be the lightning talk prod person, ryan will also do one on something by prodding himself.  Jon will follow up with Ryan.
   2. Pair-Presenting
   3. Opening Discussion
-  4. Mention this stuff in the pre-meeting slides
+  4. Mention this stuff in the pre-meeting slides.  Jon will put the lightning talk thing in the opening slide
+
+7. Jon to talk to Kelly about hosting altnet videos
+
+8. Jon will send email to the group asking about givecamp involvement... tomorrow morning, egging officers to talk about it to their friends.
+
+9. Sasha - to add Ryan, Dean, and Brett to be able to edit the indyalt.net meetings
+
+Lightning Talk Queue
+---------------------------------
+Kanban - Shane
 
 Future Topic Idea Bucket
 ---------------------------------
-MongoDB (NoSQL) - Jon Fuller (someone else?)
-Lean/Kanban - Tim Wingfield/Chris Shinkle
 HTML5
 Color Modeling
 Design Patterns
-AOP (weaving, etc.)
+AOP (weaving, etc.) + Dynamic Proxy
 Software Craftsmanship (Brian Ball)
 Mentoring vs. Self-Taught (Brian Ball)
 DSL's (Brian Ball)
 Fluent Interfaces
 Dave Grigsby - ? (Dean to ask)
-
+Low-level/Hardware Platform concerns and Profiling (CPU/IO/Memory/Network)
+Node.js
