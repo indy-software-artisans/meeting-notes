@@ -1,0 +1,89 @@
+# June Admin Meeting #
+
+Old Business
+----------------------
+
+1. Locations
+  1. Sasha, do we have an update from Infragistics? No.  Sasha/Shane will send a confused email.
+  2. Looks like Franklin is a go, as soon as we get money commitment from Infragistics.
+  3. Jon to check out the Clay Township Community Center Something-or-other-building, Shane will go check it out, if Jon lives in Clay Township.
+  4. Dean will talk to Jim Ellis to find about MID building availability.
+
+3. Incorporation (again)
+  1. Dean will ask his father-in-law about doing our taxes... if we want to incorporate.
+  3. Mike, Ryan will look into what this will really cost us.  We'll expect real numbers here for next meeting. And all the stuff we might need to do to make this happen.
+
+4. Recording the Meetings
+  1. Dean, do you have camtasia mac/pc (Jeff McWherter, Other Webber)?
+
+5. Programmer Puzzles
+  1. If these could be distributed before the meeting (like before people get there), that might prove more useful.
+  2. Get them to Jon a month ahead of time if you want them to happen.
+
+New Business
+----------------------
+
+2. August Meeting
+  1. Lightning Talk - Dean - Code Contracts - 10 minutes
+    2. Dean would need to install camtasia for his lightning talk.
+  1. Fishbowl
+    2. Teams Fishbowl
+      a. Team Dynamics - Why is your team awesome/teh suxorz? 
+        a1. Consulting teams vs Perm teams vs ad-hoc teams
+        a2. Distributed teams
+      b. Self-Team Interaction - Do I bother my teammates too much?  Do they bother me too much?  Why does no-one get anything done?  How much interruption is appropriate?
+      c. Oddly Shaped Teams - What do you do when you don't have a tester?  I'm on a one man team... help!
+      d. Jump-starting Dead-weight - How?
+
+1. September Meeting
+  2. Jon to do his MongoDB talk, maybe add some couch goodness (Jon to talk to Brett and Matt and Shawn about Couch, maybe one of the Ruby guys)
+
+3. October Meeting
+???  Lean/Kanban - Tim Wingfield/Chris Shinkle
+
+4. November Meeting
+???  Lean/Kanban - Tim Wingfield/Chris Shinkle
+
+5. December Meeting
+Fluent Interfaces - moq, nunit, ioc, + DSL
+
+6. Growing Speakers
+  2. Pair-Presenting
+  3. Opening Discussion
+  4. Mention this stuff in the pre-meeting slides.  Jon will put the lightning talk thing in the opening slide
+
+7. Jon to talk to Kelly about hosting altnet videos
+
+Lightning Talk Queue
+---------------------------------
+Kanban - Shane
+Design Patterns - [Dean]
+Long-ish talk on If/Conditional Logic - [Shane]
+Refactoring - [Dean]
+Attribute Magic (refactoring, etc.) - Shane
+
+Future Topic Idea Bucket
+---------------------------------
+HTML5
+Color Modeling
+Design Patterns
+AOP (weaving, etc.) + Dynamic Proxy
+Software Craftsmanship (Brian Ball)
+Mentoring vs. Self-Taught (Brian Ball)
+DSL's (Brian Ball)
+Fluent Interfaces
+Dave Grigsby - ? (Dean to ask)
+Low-level/Hardware Platform concerns and Profiling (CPU/IO/Memory/Network)
+Node.js
+Profiling 
+
+Fishbowls:
+  3. Effective Organizational Change
+  7. Low-level/Hardware Platform concerns (CPU/IO/Memory/Network) - Fishbowl+Pres
+  5. Roles Fishbowl (again)
+  5. War-Stories
+  2. Bitchfest - Dean is responsible for beer
+  8. Interviewing techniques
+
+
+Buzzword Bingo is a decent idea to do sometime
